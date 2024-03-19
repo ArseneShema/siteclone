@@ -1,0 +1,30 @@
+body {
+    background-color: gray;
+
+}
+
+.image1 {
+    object-fit: cover;
+    height: 40vh;
+    width: cover;
+
+}
+
+.nav-logo {
+    width: 50px;
+    object-fit: contain;
+}
+
+.magic-card {
+    position: absolute;
+    bottom: -10vh;
+}
+
+/* .magic-card-offset {
+    margin-bottom: 10vh;
+} */
+
+
+/* .sticky-form-offset {
+    top: 8.5vh;
+} */
